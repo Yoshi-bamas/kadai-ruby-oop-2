@@ -18,5 +18,5 @@ end
 kirameki = Mentor.new("煌木")
 akaide = Railsmentor.new("赤出")
 
-puts kirameki.job
-puts akaide.job
+kirameki.job
+akaide.job
